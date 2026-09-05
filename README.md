@@ -9,3 +9,6 @@ This repository contains my capstone projects and practical demonstrations for m
 
 * [**Memory Allocation & Pointer Crash Demo**](./memory-crash-demo/) 
   A Go program demonstrating live process memory management and intentional Segmentation Faults (SIGSEGV).
+
+* [**Linux Process & Memory Monitor**](./process-monitor-tool/) 
+  A Python automation script that interfaces with the Linux OS to parse live memory statistics and flag resource anomalies.
