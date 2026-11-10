@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+
+*.csv
+*.lsnp
+*.bin
+*.log
+
+.env
+.env.*
+
+*.swp
+*.swo
+*~

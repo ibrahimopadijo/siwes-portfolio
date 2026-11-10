@@ -12,3 +12,6 @@ This repository contains my capstone projects and practical demonstrations for m
 
 * [**Linux Process & Memory Monitor**](./process-monitor-tool/) 
   A Python automation script that interfaces with the Linux OS to parse live memory statistics and flag resource anomalies.
+
+* [ServiceDrift — Local TCP Availability & Baseline Monitor](servicedrift/README.md) 
+  A Python security operations tool that performs timestamped localhost TCP checks, stores binary baseline snapshots, and detects changes in service connectivity.
